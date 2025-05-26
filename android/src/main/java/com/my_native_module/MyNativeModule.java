@@ -1,4 +1,4 @@
-package com.my_native_module;
+package com.tnpSDK;
 
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;

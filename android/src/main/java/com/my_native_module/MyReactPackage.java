@@ -1,4 +1,4 @@
-package com.my_native_module;
+package com.tnpSDK;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;
